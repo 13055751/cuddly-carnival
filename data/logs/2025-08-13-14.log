@@ -1,0 +1,65 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.18.8\u001b[0m","timestamp":1755079416972}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1755079417063}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1755079417065}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:j0w1cg\u001b[0m","timestamp":1755079417067}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1755079417326}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:x0c2t8\u001b[0m","timestamp":1755079417327}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:lqqvls\u001b[0m","timestamp":1755079417333}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:i0nxcx\u001b[0m","timestamp":1755079417337}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:zrcx36\u001b[0m","timestamp":1755079417339}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:wm1w58\u001b[0m","timestamp":1755079417350}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:jmrn0l\u001b[0m","timestamp":1755079417555}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:80xu0n\u001b[0m","timestamp":1755079417563}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1755079417595}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:pvmlzu\u001b[0m","timestamp":1755079417596}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:3lynae\u001b[0m","timestamp":1755079417600}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:ca4k6j\u001b[0m","timestamp":1755079417611}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:7ehmlf\u001b[0m","timestamp":1755079417691}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:cdf8bt\u001b[0m","timestamp":1755079417711}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdesktop:fx3kqa\u001b[0m","timestamp":1755079417717}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:fdwmx4\u001b[0m","timestamp":1755079417724}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:oz86yn\u001b[0m","timestamp":1755079417757}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:glebyt\u001b[0m","timestamp":1755079417761}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:hi6jau\u001b[0m","timestamp":1755079417765}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:yilwjz\u001b[0m","timestamp":1755079417871}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:d8e8xg\u001b[0m","timestamp":1755079417874}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:oqppzi\u001b[0m","timestamp":1755079417877}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:ckhxym\u001b[0m","timestamp":1755079417883}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:iz5pa2\u001b[0m","timestamp":1755079417946}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1755079417951}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:1tdm2p\u001b[0m","timestamp":1755079417953}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:gous88\u001b[0m","timestamp":1755079417971}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1755079417982}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-qq:7ncj4o\u001b[0m","timestamp":1755079417983}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna:m3mmep\u001b[0m","timestamp":1755079418000}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna-google-gemini-adapter:na5eyc\u001b[0m","timestamp":1755079418820}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna-vector-store-service:yxj816\u001b[0m","timestamp":1755079418841}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-onebot:pcd38z\u001b[0m","timestamp":1755079419439}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna-search-service:kfo46m\u001b[0m","timestamp":1755079419459}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpuppeteer:mcmos9\u001b[0m","timestamp":1755079419494}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchatluna-character:c6rthz\u001b[0m","timestamp":1755079420117}
+{"id":41,"type":"info","level":2,"name":"assets","meta":{"paths":["gous88"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1755079420388}
+{"id":42,"type":"info","level":2,"name":"puppeteer","meta":{"paths":["mcmos9"]},"content":"chrome executable found at \u001b[38;5;201mC:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\u001b[0m","timestamp":1755079420567}
+{"id":45,"type":"info","level":2,"name":"server","meta":{"paths":["j0w1cg"]},"content":"server listening at \u001b[38;5;57mhttp://127.0.0.1:5140\u001b[0m","timestamp":1755079420626}
+{"id":46,"type":"info","level":2,"name":"console","meta":{"paths":["7ehmlf"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1755079420627}
+{"id":52,"type":"success","level":1,"name":"chatluna","meta":{"paths":["m3mmep"]},"content":"register plugin \u001b[38;5;206mgemini\u001b[0m","timestamp":1755079420997}
+{"id":53,"type":"success","level":1,"name":"chatluna","meta":{"paths":["m3mmep"]},"content":"register plugin \u001b[38;5;206mvector-store-service\u001b[0m","timestamp":1755079421014}
+{"id":113,"type":"info","level":2,"name":"adapter","meta":{"paths":["pcd38z"]},"content":"connect to server: \u001b[38;5;44mwss://gxpppzgnzrtw.ap-northeast-1.clawcloudrun.com/\u001b[0m","timestamp":1755079422283}
+{"id":118,"type":"success","level":1,"name":"chatluna","meta":{"paths":["m3mmep"]},"content":"register plugin \u001b[38;5;206msearch-service\u001b[0m","timestamp":1755079422387}
+{"id":121,"type":"warn","level":2,"name":"chatluna_character","meta":{"paths":["c6rthz"]},"content":"Sticker Service is deprecated. In future, we will make the new sticker system.","timestamp":1755079422708}
+{"id":133,"type":"info","level":2,"name":"chatluna-character","meta":{"paths":["c6rthz"]},"content":"global model loaded \u001b[38;5;98mgemini/gemini-2.0-flash-lite\u001b[0m","timestamp":1755079423381}
+{"id":140,"type":"info","level":2,"name":"adapter","meta":{"paths":["7ncj4o"]},"content":"connect to server: \u001b[38;5;44mwss://sandbox.api.sgroup.qq.com/websocket\u001b[0m","timestamp":1755079427101}
+{"id":207,"type":"info","level":2,"name":"market","meta":{},"content":"\u001b[1mYarn 4.1.1\u001b[22m","timestamp":1755080354760}
+{"id":208,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Resolution step","timestamp":1755080354816}
+{"id":209,"type":"info","level":2,"name":"market","meta":{},"content":"\u001b[38;2;95;175;0m+\u001b[39m \u001b[38;2;215;135;95mkoishi-plugin-fish-speech\u001b[39m\u001b[38;2;135;175;255m@\u001b[39m\u001b[38;2;135;175;255mnpm:0.0.4\u001b[39m","timestamp":1755080356687}
+{"id":210,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 1s 914ms","timestamp":1755080356730}
+{"id":211,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Post-resolution validation","timestamp":1755080356732}
+{"id":214,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed","timestamp":1755080356733}
+{"id":215,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Fetch step","timestamp":1755080356733}
+{"id":216,"type":"info","level":2,"name":"market","meta":{},"content":"A package was added to the project (\u001b[38;2;255;49;49m+ 48.77 KiB\u001b[39m).","timestamp":1755080362550}
+{"id":217,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 5s 817ms","timestamp":1755080362552}
+{"id":218,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Link step","timestamp":1755080362637}
+{"id":219,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 651ms","timestamp":1755080363288}
+{"id":221,"type":"warn","level":2,"name":"market","meta":{},"content":"fetch https://registry.npmmirror.com/@koishijs/plugin-adapter-qq failed","timestamp":1755080364631}
+{"id":222,"type":"warn","level":2,"name":"market","meta":{},"content":"fetch https://registry.npmmirror.com/@koishijs/plugin-auth failed","timestamp":1755080364782}
+{"id":223,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-fish-speech'\nRequire stack:\n- C:\\Users\\tsukikage yura\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js\n- C:\\Users\\tsukikage yura\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\loader\\lib\\index.js\n- C:\\Users\\tsukikage yura\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi\\lib\\worker\\index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (C:\\Users\\tsukikage yura\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js:318:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (C:\\Users\\tsukikage yura\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js:546:20)\n    at async WebSocket.receive (C:\\Users\\tsukikage yura\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\console\\lib\\index.js:127:21)","timestamp":1755080368333}
