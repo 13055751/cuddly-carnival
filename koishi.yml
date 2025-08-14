@@ -95,7 +95,7 @@ plugins:
     splitMessage: true
     defaultVectorStore: luna-vdb
     defaultPreset: 猫娘_安全特化
-    randomReplyFrequency: 0.1
+    randomReplyFrequency: 0.05
     allowQuoteReply: true
     messageCount: 75
     outputMode: mixed-voice
@@ -103,6 +103,10 @@ plugins:
     voiceSpeakId: 283
     autoUpdateRoomMode: all
     showThoughtMessage: true
+    $filter:
+      $eq:
+        - $: userId
+        - '2854202681'
   chatluna-google-gemini-adapter:na5eyc:
     apiKeys:
       - - AIzaSyD5U4dbU4U-xJAckDU3VI7hg5EI_iuqviY
