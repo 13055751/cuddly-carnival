@@ -1,8 +1,9 @@
 plugins:
   group:server:
     server:j0w1cg:
-      port: 5140
+      port: 7860
       maxPort: 5149
+      host: 0.0.0.0
     ~server-satori:z4kmyb: {}
     ~server-temp:pk8jp1: {}
   group:basic:
@@ -98,9 +99,10 @@ plugins:
     allowQuoteReply: true
     messageCount: 75
     outputMode: mixed-voice
-    defaultModel: gemini/gemini-2.0-flash-lite
-    voiceSpeakId: 140
+    defaultModel: gemini/gemini-2.5-flash-lite
+    voiceSpeakId: 283
     autoUpdateRoomMode: all
+    showThoughtMessage: true
   chatluna-google-gemini-adapter:na5eyc:
     apiKeys:
       - - AIzaSyD5U4dbU4U-xJAckDU3VI7hg5EI_iuqviY
@@ -131,9 +133,9 @@ plugins:
     image: true
     splitVoice: true
     coolDownTime: 1
-    model: gemini/gemini-2.0-flash-lite
+    model: gemini/gemini-2.5-flash-lite
   open-vits:p4hf1r:
-    defaultSpeaker: 140
+    defaultSpeaker: 283
     endpoint: https://artrajz-vits-simple-api.hf.space
     speaker_id: 140
     translator: false
